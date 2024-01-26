@@ -1,0 +1,445 @@
+
+[START][25-01-24 06:30:10]-----
+	[METHOD][25-01-24 06:30:10]PUT
+	[REQUIRED][25-01-24 06:30:10]put.controller
+[START][25-01-24 06:32:36]-----
+	[METHOD][25-01-24 06:32:36]PUT
+	[REQUIRED][25-01-24 06:32:36]put.controller
+	[ERROR][25-01-24 06:32:36]ERROR en los datos enviados por PUT
+[START][25-01-24 06:34:04]-----
+	[METHOD][25-01-24 06:34:04]PUT
+	[REQUIRED][25-01-24 06:34:04]put.controller
+	[ERROR][25-01-24 06:34:04]ERROR en los datos enviados por PUT
+[START][25-01-24 06:34:52]-----
+	[METHOD][25-01-24 06:34:52]PUT
+	[REQUIRED][25-01-24 06:34:52]put.controller
+	[ERROR][25-01-24 06:34:52]ERROR en los datos enviados por PUT
+[START][25-01-24 06:36:03]-----
+	[METHOD][25-01-24 06:36:03]PUT
+	[REQUIRED][25-01-24 06:36:03]put.controller
+	[ERROR][25-01-24 06:36:03]ERROR en los datos enviados por PUT
+[START][25-01-24 06:36:52]-----
+	[METHOD][25-01-24 06:36:52]PUT
+	[REQUIRED][25-01-24 06:36:52]put.controller
+	[ERROR][25-01-24 06:36:52]ERROR en los datos enviados por PUT
+[START][25-01-24 06:38:58]-----
+	[METHOD][25-01-24 06:38:58]PUT
+	[REQUIRED][25-01-24 06:38:58]put.controller
+	[INFO][25-01-24 06:38:58]Datos correctos enviados por PUT
+	[CONNECTION][25-01-24 06:38:58]Conexion realizada con exito
+[START][25-01-24 06:39:29]-----
+	[METHOD][25-01-24 06:39:29]PUT
+	[REQUIRED][25-01-24 06:39:29]put.controller
+	[INFO][25-01-24 06:39:29]Datos correctos enviados por PUT
+	[CONNECTION][25-01-24 06:39:29]Conexion realizada con exito
+	[LOADED][25-01-24 13:05:42]ERROR
+[START][25-01-24 13:05:42]-----
+	[METHOD][25-01-24 13:05:42]PUT
+	[REQUIRED][25-01-24 13:05:42]put.controller
+	[INFO][25-01-24 13:05:42]Datos correctos enviados por PUT
+	[CONNECTION][25-01-24 13:05:42]Conexion realizada con exito
+	[LOADED][25-01-24 13:06:12]ERROR
+[START][25-01-24 13:06:12]-----
+	[METHOD][25-01-24 13:06:12]PUT
+	[REQUIRED][25-01-24 13:06:12]put.controller
+	[INFO][25-01-24 13:06:12]Datos correctos enviados por PUT
+	[CONNECTION][25-01-24 13:06:12]Conexion realizada con exito
+[START][25-01-24 13:17:41]-----
+	[METHOD][25-01-24 13:17:41]PUT
+	[REQUIRED][25-01-24 13:17:41]put.controller
+	[INFO][25-01-24 13:17:41]Datos correctos enviados por PUT
+	[CONNECTION][25-01-24 13:17:41]Conexion realizada con exito
+[START][25-01-24 13:21:50]-----
+	[METHOD][25-01-24 13:21:50]PUT
+	[require][25-01-24 13:21:50]cargado put.model.php
+	[REQUIRED][25-01-24 13:21:50]put.controller
+	[INFO][25-01-24 13:21:50]Datos correctos enviados por PUT
+	[CONNECTION][25-01-24 13:21:50]Conexion realizada con exito
+[START][25-01-24 13:25:12]-----
+	[METHOD][25-01-24 13:25:12]PUT
+[START][25-01-24 13:25:44]-----
+	[METHOD][25-01-24 13:25:44]PUT
+	[require][25-01-24 13:25:44]cargado put.model.php
+	[REQUIRED][25-01-24 13:25:44]put.controller
+	[INFO][25-01-24 13:25:44]Datos correctos enviados por PUT
+	[INFO][25-01-24 13:25:44]inicio PutModel::putData
+	[CONNECTION][25-01-24 13:25:44]Conexion realizada con exito
+[START][25-01-24 13:27:33]-----
+	[METHOD][25-01-24 13:27:33]PUT
+	[require][25-01-24 13:27:33]cargado put.model.php
+	[REQUIRED][25-01-24 13:27:33]put.controller
+	[INFO][25-01-24 13:27:33]Datos correctos enviados por PUT
+	[INFO][25-01-24 13:27:33]inicio PutModel::putData
+	[query][25-01-24 13:27:33]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id = :id
+	[CONNECTION][25-01-24 13:27:33]Conexion realizada con exito
+[START][25-01-24 13:29:29]-----
+	[METHOD][25-01-24 13:29:29]POST
+	[QUERY][25-01-24 13:29:29]INSERT INTO users(name_user, email_user, password_user) VALUES ('pepe2', 'pepe2@gmail.com', '123456');
+	[CONNECTION][25-01-24 13:29:29]Conexion realizada con exito
+[START][25-01-24 13:29:34]-----
+	[METHOD][25-01-24 13:29:34]POST
+	[QUERY][25-01-24 13:29:34]INSERT INTO users(name_user, email_user, password_user) VALUES ('pepe2', 'pepe2@gmail.com', '123456');
+	[CONNECTION][25-01-24 13:29:34]Conexion realizada con exito
+[START][25-01-24 13:29:36]-----
+	[METHOD][25-01-24 13:29:36]POST
+	[QUERY][25-01-24 13:29:36]INSERT INTO users(name_user, email_user, password_user) VALUES ('pepe2', 'pepe2@gmail.com', '123456');
+	[CONNECTION][25-01-24 13:29:36]Conexion realizada con exito
+[START][25-01-24 13:29:37]-----
+	[METHOD][25-01-24 13:29:37]POST
+	[QUERY][25-01-24 13:29:37]INSERT INTO users(name_user, email_user, password_user) VALUES ('pepe2', 'pepe2@gmail.com', '123456');
+	[CONNECTION][25-01-24 13:29:37]Conexion realizada con exito
+[START][25-01-24 13:29:47]-----
+	[METHOD][25-01-24 13:29:47]POST
+	[QUERY][25-01-24 13:29:47]INSERT INTO users(name_user, email_user, password_user) VALUES ('pepe2', 'pepe2@gmail.com', '123456');
+	[CONNECTION][25-01-24 13:29:47]Conexion realizada con exito
+[START][25-01-24 13:29:52]-----
+	[METHOD][25-01-24 13:29:52]PUT
+	[require][25-01-24 13:29:52]cargado put.model.php
+	[REQUIRED][25-01-24 13:29:52]put.controller
+	[INFO][25-01-24 13:29:52]Datos correctos enviados por PUT
+	[INFO][25-01-24 13:29:52]inicio PutModel::putData
+	[query][25-01-24 13:29:52]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id = :id
+	[CONNECTION][25-01-24 13:29:52]Conexion realizada con exito
+[START][25-01-24 13:34:03]-----
+	[METHOD][25-01-24 13:34:03]PUT
+	[require][25-01-24 13:34:03]cargado put.model.php
+	[REQUIRED][25-01-24 13:34:03]put.controller
+	[INFO][25-01-24 13:34:03]Datos correctos enviados por PUT
+[START][25-01-24 13:34:19]-----
+	[METHOD][25-01-24 13:34:19]POST
+	[QUERY][25-01-24 13:34:19]INSERT INTO users(name_user, email_user, password_user) VALUES ('pepe2', 'pepe2@gmail.com', '123456');
+	[CONNECTION][25-01-24 13:34:19]Conexion realizada con exito
+[START][25-01-24 13:34:24]-----
+	[METHOD][25-01-24 13:34:24]PUT
+	[require][25-01-24 13:34:24]cargado put.model.php
+	[REQUIRED][25-01-24 13:34:24]put.controller
+	[INFO][25-01-24 13:34:24]Datos correctos enviados por PUT
+[START][25-01-24 13:35:12]-----
+	[METHOD][25-01-24 13:35:12]PUT
+	[require][25-01-24 13:35:12]cargado put.model.php
+	[REQUIRED][25-01-24 13:35:12]put.controller
+	[INFO][25-01-24 13:35:12]Datos correctos enviados por PUT
+[START][25-01-24 13:35:44]-----
+	[METHOD][25-01-24 13:35:44]PUT
+	[require][25-01-24 13:35:44]cargado put.model.php
+	[REQUIRED][25-01-24 13:35:44]put.controller
+	[INFO][25-01-24 13:35:44]Datos correctos enviados por PUT
+[START][25-01-24 13:36:25]-----
+	[METHOD][25-01-24 13:36:25]PUT
+	[require][25-01-24 13:36:25]cargado put.model.php
+	[REQUIRED][25-01-24 13:36:25]put.controller
+	[INFO][25-01-24 13:36:25]Datos correctos enviados por PUT
+[START][25-01-24 13:42:46]-----
+	[METHOD][25-01-24 13:42:46]PUT
+	[require][25-01-24 13:42:46]cargado put.model.php
+	[REQUIRED][25-01-24 13:42:46]put.controller
+	[INFO][25-01-24 13:42:46]Datos correctos enviados por PUT
+[START][25-01-24 13:43:55]-----
+	[METHOD][25-01-24 13:43:55]PUT
+	[require][25-01-24 13:43:55]cargado put.model.php
+	[REQUIRED][25-01-24 13:43:55]put.controller
+	[INFO][25-01-24 13:43:55]Datos correctos enviados por PUT
+[START][25-01-24 13:48:09]-----
+	[METHOD][25-01-24 13:48:09]PUT
+	[REQUIRED][25-01-24 13:48:09]cargado put.controller
+	[require][25-01-24 13:48:09]cargado put.model.php
+	[INFO][25-01-24 13:48:09]Datos correctos enviados por PUT
+[START][25-01-24 13:49:10]-----
+	[METHOD][25-01-24 13:49:10]PUT
+	[REQUIRED][25-01-24 13:49:10]cargado put.controller
+	[require][25-01-24 13:49:10]cargado put.model.php
+	[INFO][25-01-24 13:49:10]Datos correctos enviados por PUT
+[START][25-01-24 13:50:29]-----
+	[METHOD][25-01-24 13:50:29]PUT
+	[REQUIRED][25-01-24 13:50:29]cargado put.controller
+	[require][25-01-24 13:50:29]cargado put.model.php
+	[INFO][25-01-24 13:50:29]Datos correctos enviados por PUT id:
+[START][25-01-24 13:55:40]-----
+	[METHOD][25-01-24 13:55:40]PUT
+	[REQUIRED][25-01-24 13:55:40]cargado put.controller
+	[require][25-01-24 13:55:40]cargado put.model.php
+	[INFO][25-01-24 13:55:40]Datos correctos enviados por PUT id:
+	[INFO][25-01-24 13:55:40]Datos correctos enviados por PUT id:
+	[INFO][25-01-24 13:55:40]Datos correctos enviados por PUT id:
+[START][25-01-24 13:56:49]-----
+	[METHOD][25-01-24 13:56:49]PUT
+	[REQUIRED][25-01-24 13:56:49]cargado put.controller
+	[require][25-01-24 13:56:49]cargado put.model.php
+	[INFO][25-01-24 13:56:49]Datos correctos enviados por PUT id:
+	[INFO][25-01-24 13:56:49]Datos correctos enviados por PUT id:
+	[INFO][25-01-24 13:56:49]Datos correctos enviados por PUT id:6
+[START][25-01-24 13:59:25]-----
+	[METHOD][25-01-24 13:59:25]PUT
+	[REQUIRED][25-01-24 13:59:25]cargado put.controller
+	[require][25-01-24 13:59:25]cargado put.model.php
+	[INFO][25-01-24 13:59:25]Datos correctos enviados por PUT id:
+	[INFO][25-01-24 13:59:25]Datos correctos enviados por PUT id:
+	[INFO][25-01-24 13:59:25]Datos correctos enviados por PUT id:6
+[START][25-01-24 14:03:10]-----
+	[METHOD][25-01-24 14:03:10]PUT
+	[REQUIRED][25-01-24 14:03:10]cargado put.controller
+	[require][25-01-24 14:03:10]cargado put.model.php
+	[ERROR][25-01-24 14:03:10]ERROR en los datos enviados por PUT
+[START][25-01-24 14:04:03]-----
+	[METHOD][25-01-24 14:04:03]PUT
+	[REQUIRED][25-01-24 14:04:03]cargado put.controller
+	[require][25-01-24 14:04:03]cargado put.model.php
+	[ERROR][25-01-24 14:04:03]ERROR en los datos enviados por PUT
+[START][25-01-24 14:04:16]-----
+	[METHOD][25-01-24 14:04:16]PUT
+	[REQUIRED][25-01-24 14:04:16]cargado put.controller
+	[require][25-01-24 14:04:16]cargado put.model.php
+	[ERROR][25-01-24 14:04:16]ERROR en los datos enviados por PUT
+[START][25-01-24 14:08:46]-----
+	[METHOD][25-01-24 14:08:46]PUT
+	[REQUIRED][25-01-24 14:08:46]cargado put.controller
+	[require][25-01-24 14:08:46]cargado put.model.php
+	[ERROR][25-01-24 14:08:46]ERROR en los datos enviados por PUT
+[START][25-01-24 14:09:44]-----
+	[METHOD][25-01-24 14:09:44]PUT
+	[REQUIRED][25-01-24 14:09:44]cargado put.controller
+	[require][25-01-24 14:09:44]cargado put.model.php
+	[INFO][25-01-24 14:09:44]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 14:09:44]Datos correctos enviados por PUT id:JUANITO
+	[INFO][25-01-24 14:09:44]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 14:09:44]inicio PutModel::putData
+[START][25-01-24 20:42:12]-----
+	[METHOD][25-01-24 20:42:12]PUT
+	[REQUIRED][25-01-24 20:42:12]cargado put.controller
+	[require][25-01-24 20:42:12]cargado put.model.php
+	[INFO][25-01-24 20:42:12]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:42:12]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:42:12]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:42:12]inicio PutModel::putData
+[START][25-01-24 20:42:34]-----
+	[METHOD][25-01-24 20:42:34]PUT
+	[REQUIRED][25-01-24 20:42:34]cargado put.controller
+	[require][25-01-24 20:42:34]cargado put.model.php
+	[INFO][25-01-24 20:42:34]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:42:34]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:42:34]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:42:34]inicio PutModel::putData
+	[CONNECTION][25-01-24 20:42:34]Conexion realizada con exito
+[START][25-01-24 20:43:19]-----
+	[METHOD][25-01-24 20:43:19]PUT
+	[REQUIRED][25-01-24 20:43:19]cargado put.controller
+	[require][25-01-24 20:43:19]cargado put.model.php
+	[INFO][25-01-24 20:43:19]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:43:19]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:43:19]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:43:19]inicio PutModel::putData
+	[query][25-01-24 20:43:19]UPDATE users SET name_user = :name_user, email_iser = :email_iser, passord_user = :passord_user WHERE id = :id
+	[query][25-01-24 20:43:19]ID: 6
+	[CONNECTION][25-01-24 20:43:19]Conexion realizada con exito
+[START][25-01-24 20:43:53]-----
+	[METHOD][25-01-24 20:43:53]PUT
+	[REQUIRED][25-01-24 20:43:53]cargado put.controller
+	[require][25-01-24 20:43:53]cargado put.model.php
+	[INFO][25-01-24 20:43:53]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:43:53]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:43:53]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:43:53]inicio PutModel::putData
+	[query][25-01-24 20:43:53]UPDATE users SET name_user = :name_user, email_user = :email_user, passord_user = :passord_user WHERE id = :id
+	[query][25-01-24 20:43:53]ID: 6
+	[CONNECTION][25-01-24 20:43:53]Conexion realizada con exito
+[START][25-01-24 20:45:44]-----
+	[METHOD][25-01-24 20:45:44]PUT
+	[REQUIRED][25-01-24 20:45:44]cargado put.controller
+	[require][25-01-24 20:45:44]cargado put.model.php
+	[INFO][25-01-24 20:45:44]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:45:44]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:45:44]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:45:44]inicio PutModel::putData
+	[query][25-01-24 20:45:44]UPDATE users SET name_user = :name_user, email_user = :email_user, passord_user = :passord_user WHERE id = :id
+	[query][25-01-24 20:45:44]ID: 6
+	[CONNECTION][25-01-24 20:45:44]Conexion realizada con exito
+	[	bindVALUE][25-01-24 20:45:44]name_user = 
+	[	bindVALUE][25-01-24 20:45:44]email_user = 
+	[	bindVALUE][25-01-24 20:45:44]passord_user = 
+[START][25-01-24 20:47:21]-----
+	[METHOD][25-01-24 20:47:21]PUT
+	[REQUIRED][25-01-24 20:47:21]cargado put.controller
+	[require][25-01-24 20:47:21]cargado put.model.php
+	[INFO][25-01-24 20:47:21]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:47:21]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:47:21]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:47:21]inicio PutModel::putData
+	[query][25-01-24 20:47:21]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id = :id
+	[query][25-01-24 20:47:21]ID: 6
+	[CONNECTION][25-01-24 20:47:21]Conexion realizada con exito
+	[	bindVALUE][25-01-24 20:47:21]name_user = 
+	[	bindVALUE][25-01-24 20:47:21]email_user = 
+	[	bindVALUE][25-01-24 20:47:21]password_user = 
+[START][25-01-24 20:47:32]-----
+	[METHOD][25-01-24 20:47:32]PUT
+	[REQUIRED][25-01-24 20:47:32]cargado put.controller
+	[require][25-01-24 20:47:32]cargado put.model.php
+	[INFO][25-01-24 20:47:32]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:47:32]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:47:32]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:47:32]inicio PutModel::putData
+	[query][25-01-24 20:47:32]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id = :id
+	[query][25-01-24 20:47:32]ID: 6
+	[CONNECTION][25-01-24 20:47:32]Conexion realizada con exito
+	[	bindVALUE][25-01-24 20:47:32]name_user = 
+	[	bindVALUE][25-01-24 20:47:32]email_user = 
+	[	bindVALUE][25-01-24 20:47:32]password_user = 
+[START][25-01-24 20:51:12]-----
+	[METHOD][25-01-24 20:51:12]PUT
+	[REQUIRED][25-01-24 20:51:12]cargado put.controller
+	[require][25-01-24 20:51:12]cargado put.model.php
+	[INFO][25-01-24 20:51:12]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:51:12]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:51:12]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:51:12]inicio PutModel::putData
+	[query][25-01-24 20:51:12]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id = :id
+	[query][25-01-24 20:51:12]ID: 6
+	[CONNECTION][25-01-24 20:51:12]Conexion realizada con exito
+	[	bindVALUE][25-01-24 20:51:12]name_user = JUANITO
+	[	bindVALUE][25-01-24 20:51:12]email_user = JUANITO@gmail.com
+	[	bindVALUE][25-01-24 20:51:12]password_user = 654321
+[START][25-01-24 20:51:31]-----
+	[METHOD][25-01-24 20:51:31]PUT
+	[REQUIRED][25-01-24 20:51:31]cargado put.controller
+	[require][25-01-24 20:51:31]cargado put.model.php
+	[INFO][25-01-24 20:51:31]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:51:31]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:51:31]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:51:31]inicio PutModel::putData
+	[query][25-01-24 20:51:31]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id = :id
+	[query][25-01-24 20:51:31]ID: 6
+	[CONNECTION][25-01-24 20:51:31]Conexion realizada con exito
+	[	bindVALUE][25-01-24 20:51:31]name_user = JUANITO
+	[	bindVALUE][25-01-24 20:51:31]email_user = JUANITO@gmail.com
+	[	bindVALUE][25-01-24 20:51:31]password_user = 654321
+[START][25-01-24 20:52:52]-----
+	[METHOD][25-01-24 20:52:52]PUT
+	[REQUIRED][25-01-24 20:52:52]cargado put.controller
+	[require][25-01-24 20:52:52]cargado put.model.php
+	[INFO][25-01-24 20:52:52]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:52:52]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:52:52]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:52:52]inicio PutModel::putData
+	[query][25-01-24 20:52:52]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id_users = :id
+	[query][25-01-24 20:52:52]ID: 6
+	[CONNECTION][25-01-24 20:52:52]Conexion realizada con exito
+	[	bindVALUE][25-01-24 20:52:52]name_user = JUANITO
+	[	bindVALUE][25-01-24 20:52:52]email_user = JUANITO@gmail.com
+	[	bindVALUE][25-01-24 20:52:52]password_user = 654321
+[START][25-01-24 20:56:42]-----
+	[METHOD][25-01-24 20:56:42]PUT
+	[REQUIRED][25-01-24 20:56:42]cargado put.controller
+	[require][25-01-24 20:56:42]cargado put.model.php
+	[INFO][25-01-24 20:56:42]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:56:42]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:56:42]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:56:42]inicio PutModel::putData
+	[query][25-01-24 20:56:42]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id_users = :id
+	[query][25-01-24 20:56:42]ID: 6
+	[CONNECTION][25-01-24 20:56:42]Conexion realizada con exito
+	[	bindVALUE][25-01-24 20:56:42]name_user = JUANITO
+	[	bindVALUE][25-01-24 20:56:42]email_user = JUANITO@gmail.com
+	[	bindVALUE][25-01-24 20:56:42]password_user = 654321
+[START][25-01-24 20:58:22]-----
+	[METHOD][25-01-24 20:58:22]PUT
+	[REQUIRED][25-01-24 20:58:22]cargado put.controller
+	[require][25-01-24 20:58:22]cargado put.model.php
+	[INFO][25-01-24 20:58:22]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 20:58:22]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 20:58:22]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 20:58:22]inicio PutModel::putData
+	[query][25-01-24 20:58:22]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id_users = :id
+	[query][25-01-24 20:58:22]ID: 6
+	[CONNECTION][25-01-24 20:58:22]Conexion realizada con exito
+	[	bindVALUE][25-01-24 20:58:22]name_user = JUANITO
+	[	bindVALUE][25-01-24 20:58:22]email_user = JUANITO@gmail.com
+	[	bindVALUE][25-01-24 20:58:22]password_user = 654321
+[START][25-01-24 21:00:30]-----
+	[METHOD][25-01-24 21:00:30]PUT
+	[REQUIRED][25-01-24 21:00:30]cargado put.controller
+	[require][25-01-24 21:00:30]cargado put.model.php
+	[INFO][25-01-24 21:00:30]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 21:00:30]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 21:00:30]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 21:00:30]inicio PutModel::putData
+	[query][25-01-24 21:00:30]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id_user = :id
+	[query][25-01-24 21:00:30]ID: 6
+	[CONNECTION][25-01-24 21:00:30]Conexion realizada con exito
+	[	bindVALUE][25-01-24 21:00:30]name_user = JUANITO
+	[	bindVALUE][25-01-24 21:00:30]email_user = JUANITO@gmail.com
+	[	bindVALUE][25-01-24 21:00:30]password_user = 654321
+[START][25-01-24 21:08:53]-----
+	[METHOD][25-01-24 21:08:53]PUT
+	[REQUIRED][25-01-24 21:08:53]cargado put.controller
+	[require][25-01-24 21:08:53]cargado put.model.php
+	[INFO][25-01-24 21:08:53]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 21:08:53]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 21:08:53]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 21:08:53]inicio PutModel::putData
+	[query][25-01-24 21:08:53]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id_user = :id
+	[query][25-01-24 21:08:53]ID: 6
+	[CONNECTION][25-01-24 21:08:53]Conexion realizada con exito
+	[	bindVALUE][25-01-24 21:08:53]name_user = JUANITO
+	[	bindVALUE][25-01-24 21:08:53]email_user = JUANITO@gmail.com
+	[	bindVALUE][25-01-24 21:08:53]password_user = 654321
+[START][25-01-24 21:10:07]-----
+	[METHOD][25-01-24 21:10:07]PUT
+	[REQUIRED][25-01-24 21:10:07]cargado put.controller
+	[require][25-01-24 21:10:07]cargado put.model.php
+	[INFO][25-01-24 21:10:07]Datos correctos enviados por PUT id:6
+	[INFO][25-01-24 21:10:07]Datos correctos enviados por PUT name:JUANITO
+	[INFO][25-01-24 21:10:07]Datos correctos enviados por PUT id:Array
+	[INFO][25-01-24 21:10:07]inicio PutModel::putData
+	[query][25-01-24 21:10:07]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id_user = :id
+	[query][25-01-24 21:10:07]ID: 6
+	[CONNECTION][25-01-24 21:10:07]Conexion realizada con exito
+	[	bindVALUE][25-01-24 21:10:07]name_user = JUANITO
+	[	bindVALUE][25-01-24 21:10:07]email_user = JUANITO@gmail.com
+	[	bindVALUE][25-01-24 21:10:07]password_user = 654321
+	[INFO][25-01-24 21:10:07]RESULTADO CORRECTO DEL METODO PUT
+[START][26-01-24 05:53:38]-----
+	[METHOD][26-01-24 05:53:38]PUT
+	[REQUIRED][26-01-24 05:53:38]cargado put.controller
+	[require][26-01-24 05:53:38]cargado put.model.php
+	[INFO][26-01-24 05:53:38]Datos correctos enviados por PUT id:6
+	[INFO][26-01-24 05:53:38]Datos correctos enviados por PUT name:JUANITO
+	[INFO][26-01-24 05:53:38]Datos correctos enviados por PUT id:Array
+	[INFO][26-01-24 05:53:38]inicio PutModel::putData
+	[query][26-01-24 05:53:38]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id_user = :id
+	[query][26-01-24 05:53:38]ID: 6
+	[CONNECTION][26-01-24 05:53:38]Conexion realizada con exito
+	[	bindVALUE][26-01-24 05:53:38]name_user = JUANITO
+	[	bindVALUE][26-01-24 05:53:38]email_user = JUANITO@gmail.com
+	[	bindVALUE][26-01-24 05:53:38]password_user = 654321
+	[INFO][26-01-24 05:53:38]RESULTADO CORRECTO DEL METODO PUT
+[START][26-01-24 06:00:03]-----
+	[METHOD][26-01-24 06:00:03]PUT
+	[REQUIRED][26-01-24 06:00:03]cargado put.controller
+	[require][26-01-24 06:00:03]cargado put.model.php
+	[INFO][26-01-24 06:00:03]Datos correctos enviados por PUT id:6
+	[INFO][26-01-24 06:00:03]Datos correctos enviados por PUT name:JUANITO
+	[INFO][26-01-24 06:00:03]Datos correctos enviados por PUT id:Array
+	[INFO][26-01-24 06:00:03]inicio PutModel::putData
+	[query][26-01-24 06:00:03]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id_user = :id
+	[query][26-01-24 06:00:03]ID: 6
+	[CONNECTION][26-01-24 06:00:03]Conexion realizada con exito
+		[bindVALUE][26-01-24 06:00:03]name_user = JUANITO
+		[bindVALUE][26-01-24 06:00:03]email_user = JUANITO@gmail.com
+		[bindVALUE][26-01-24 06:00:03]password_user = 654321
+	[INFO][26-01-24 06:00:03]RESULTADO CORRECTO DEL METODO PUT
+[START][26-01-24 06:06:52]-----
+	[METHOD][26-01-24 06:06:52]PUT
+	[REQUIRED][26-01-24 06:06:52]cargado put.controller
+	[require][26-01-24 06:06:52]cargado put.model.php
+	[INFO][26-01-24 06:06:52]Datos correctos enviados por PUT id:6
+	[INFO][26-01-24 06:06:52]Datos correctos enviados por PUT name:JUANITO
+	[INFO][26-01-24 06:06:52]Datos correctos enviados por PUT id:Array
+	[INFO][26-01-24 06:06:52]inicio PutModel::putData
+	[query][26-01-24 06:06:52]UPDATE users SET name_user = :name_user, email_user = :email_user, password_user = :password_user WHERE id_user = :id
+	[query][26-01-24 06:06:52]ID: 6
+	[CONNECTION][26-01-24 06:06:52]Conexion realizada con exito
+		[bindVALUE][26-01-24 06:06:52]name_user = JUANITO
+		[bindVALUE][26-01-24 06:06:52]email_user = JUANITO@gmail.com
+		[bindVALUE][26-01-24 06:06:52]password_user = 654321
+	[INFO][26-01-24 06:06:52]RESULTADO CORRECTO DEL METODO PUT
+[END][26-01-24 06:06:52]-----
